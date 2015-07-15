@@ -1,0 +1,10 @@
+{
+  "name": "testPost",
+  "version": "0.0.1",
+  "description": "Test post method with express 4",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "4.9.8",
+    "jade": "^1.11.0"
+  }
+}
